@@ -16,10 +16,6 @@ Features:
 
 *Requires [waypoints.js](http://imakewebthings.com/jquery-waypoints/)*
 
-Demo
-====
-
-**[DEMO](http://bfintal.github.io/Counter-Up/demo/demo.html)**
 
 Usage
 =====
@@ -57,10 +53,3 @@ $('.counter').counterUp({
 `delay` - The delay in milliseconds per number count up
 
 `time` - The total duration of the count up animation
-
-Social Stuff
-============
-
-Twitter: [@bfintal](https://twitter.com/bfintal) & [@gambitph](https://twitter.com/gambitph)
-
-Google+: <a href='https://plus.google.com/113101541449927918834' rel='author'>+Benjamin Intal</a>
